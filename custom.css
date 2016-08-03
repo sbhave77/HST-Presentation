@@ -9,10 +9,10 @@ body {
 	color: #8d8d8d !important;
 }
 
-#notebook-container {
+/*notebook-container {
 	-webkit-box-shadow: none;
 	box-shadow: none;
-}
+}*/
 
 .rendered_html h1 { font-size: 4rem !important;  }
 .rendered_html h2 { font-size: 3rem !important; }
